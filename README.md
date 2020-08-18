@@ -1,9 +1,9 @@
 # Vue-Express-API-Sample
 
-#Build Frontend(Vue.js)
+# Build Frontend(Vue-cli)
 - cd frontend
 - npm run serve
 
-#Build Backend
+# Build Backend(nodemon)
 - cd backend
-- npm start(using nodemon)
+- npm start
